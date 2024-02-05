@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivee-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="shivee-yadav" /> </p>
 
-- 📫 How to reach me **shiveeyadav089@gmail.com**
+- 📫 How to reach me **shiveeyadav@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
